@@ -1,9 +1,9 @@
 <?php
 
-$servername = "pstama.ifree.page";
+$servername = "sql308.infinityfree.com";
 $username = "ifo_43103094";
-$password = "80HbQ3F0pyI08sF";
-$database = "online_voting";
+$password = "8DHbQ3F0pyI08sF";
+$database = "IFO_43103094_XXX";
 
 $conn = new mysqli(
     $servername,
