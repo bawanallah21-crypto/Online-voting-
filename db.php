@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "pstama.ifree.page";
+$username = "ifo_43103094";
+$password = "80HbQ3F0pyI08sF";
 $database = "online_voting";
 
 $conn = new mysqli(
